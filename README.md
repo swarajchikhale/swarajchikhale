@@ -83,6 +83,7 @@ A modern software project focused on delivering a clean, efficient, and user-fri
 * Secure implementation
 * Easy to maintain
 * Built using modern development practices
+* Responsive
 
 > Replace this section with a detailed description and repository link once your project is public.
 
