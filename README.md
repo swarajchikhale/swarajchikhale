@@ -77,7 +77,6 @@ public class Swaraj {
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**IDentix**](https://github.com/swarajchikhale/IDentix) | 🔐 Blockchain-based digital identity verification with dynamic QR authentication, biometric app lock & tamper-proof records | `Flutter` `Node.js` `MongoDB` `Ethereum` |
-| [**swaraj-portfolio**](https://github.com/swarajchikhale/swaraj-portfolio) | 🌐 Immersive interactive 3D portfolio built with modern web tech | `Next.js` `Three.js` `Tailwind` `Framer Motion` |
 | [**devvault**](https://github.com/swarajchikhale/devvault) | 📚 Open-source developer productivity & knowledge platform | `Java` |
 | [**Vehicle Management System**](https://github.com/swarajchikhale/vehical_management_system) | 🚗 Web platform for vehicle rentals & mechanic services with role-based dashboards | `PHP` `MySQL` `JavaScript` |
 | [**Electricity Bill Predictor**](https://github.com/swarajchikhale/Electricity_Bill_Predictor) | ⚡ ML project to predict electricity bills and unit consumption | `Python` `ML` |
